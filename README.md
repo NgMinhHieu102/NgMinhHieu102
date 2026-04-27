@@ -50,7 +50,10 @@
 
 <div align="center">
   
-![Trophy](https://github-profile-trophy.vercel.app/?username=NgMinhHieu102&theme=tokyonight&no-frame=true&row=1&column=7)
+
+![Thủy Sản Tùng Anh](./thuysantunganh.png)
+
+*Website bán cá giống và thủy sản chất lượng cao*
 
 </div>
 
