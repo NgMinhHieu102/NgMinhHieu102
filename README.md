@@ -1,4 +1,4 @@
-# 👋 Xin chào, tôi là David (Nguyễn Minh Hiếu)
+# 👋 Xin chào, tôi là Nguyễn Minh Hiếu
 
 <div align="center">
   
