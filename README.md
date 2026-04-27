@@ -55,6 +55,10 @@
 
 *Website bán cá giống và thủy sản chất lượng cao*
 
+![Trang Sức Terria](./webtrangsuc.png)
+
+*Website trang sức chất lượng cao*
+
 </div>
 
 ## 📈 Hoạt động gần đây
