@@ -58,10 +58,6 @@
 
 </div>
 
-## 📈 Hoạt động gần đây
-
-<!--START_SECTION:activity-->
-<!--END_SECTION:activity-->
 
 ## 🔥 Dự án nổi bật
 
