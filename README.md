@@ -8,11 +8,11 @@
 
 ## 🚀 Về tôi
 
-- 🔭 Hiện tại đang làm việc với **TypeScript, JavaScript, và các công nghệ web hiện đại**
-- 🌱 Đang học và phát triển kỹ năng về **Full Stack Development**
-- 💼 Đam mê xây dựng các ứng dụng web, game, và e-commerce
-- 🎮 Thích tạo các dự án sáng tạo từ Figma design đến web application
-- 📫 Liên hệ: **[email của bạn]**
+-  Hiện tại đang làm việc với **TypeScript, JavaScript, và các công nghệ web hiện đại**
+-  Đang học và phát triển kỹ năng về **Full Stack Development**
+-  Đam mê xây dựng các ứng dụng web, game, và e-commerce
+-  Thích tạo các dự án sáng tạo từ Figma design đến web application
+-  Liên hệ: **Nguyenminhhieu06878@gmail.com**
 
 ## 🛠️ Công nghệ & Công cụ
 
