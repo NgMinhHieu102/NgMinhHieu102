@@ -67,11 +67,11 @@
 
 <div align="center">
 
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=NgMinhHieu102&repo=WebOderUii&theme=tokyonight)](https://github.com/NgMinhHieu102/ShopTrangSucDoji.git)
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=NgMinhHieu102&repo=WebBanKeyKoreEco&theme=tokyonight)](https://github.com/NgMinhHieu102/ShopThuySanTungAnh.git)
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=NgMinhHieu102&repo=ShopTrangSucDoji&theme=tokyonight)](https://github.com/NgMinhHieu102/ShopTrangSucDoji.git)
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=NgMinhHieu102&repo=ShopThuySanTungAnh&theme=tokyonight)](https://github.com/NgMinhHieu102/ShopThuySanTungAnh.git)
 
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=NgMinhHieu102&repo=H2Web&theme=tokyonight)](https://github.com/NgMinhHieu102/ShopThoiTrangDchic.git)
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=NgMinhHieu102&repo=GameTesst&theme=tokyonight)](https://github.com/NgMinhHieu102/ChatBotDoanThanhNien.git)
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=NgMinhHieu102&repo=ShopThoiTrangDchic&theme=tokyonight)](https://github.com/NgMinhHieu102/ShopThoiTrangDchic.git)
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=NgMinhHieu102&repo=ChatBotDoanThanhNien&theme=tokyonight)](https://github.com/NgMinhHieu102/ChatBotDoanThanhNien.git)
 
 </div>
 
