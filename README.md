@@ -43,7 +43,7 @@
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=NgMinhHieu102&layout=compact&theme=tokyonight&hide_border=true)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=NgMinhHieu102&theme=tokyonight&hide_border=true)
+
 
 </div>
 
